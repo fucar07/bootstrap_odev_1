@@ -1,0 +1,16 @@
+body {
+    background-color: #E9ECEF ;
+}
+
+.nav-link:hover {
+    color: #E9ECEF !important;
+}
+
+.card, .card>img {
+    border-radius: 20px;
+}
+
+
+.card:hover {
+    box-shadow: 0px 3px 3px 2px rgb(32 33 36 / 20%);
+}
